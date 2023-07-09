@@ -38,6 +38,5 @@ const options = {
     'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
   }
 };
-
-![pic](https://github.com/Gourmani/Weather-App/assets/105964841/e837f286-872f-42af-bbe8-72ddcb900893)
+![pic](images/weather.png)
 
