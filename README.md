@@ -39,4 +39,5 @@ const options = {
   }
 };
 
-![weather](https://github.com/Gourmani/Weather-App/assets/105964841/1424c49b-eea9-431d-8d2b-3937d77ddc59)
+![pic](https://github.com/Gourmani/Weather-App/assets/105964841/e837f286-872f-42af-bbe8-72ddcb900893)
+
