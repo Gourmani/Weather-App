@@ -7,6 +7,9 @@ A simple weather application that allows users to check the weather conditions f
 - Search for weather conditions by city name
 - Display current temperature, min temperature, max temperature, cloud percentage, feels like, humidity, wind speed, sunrise time, sunset time, and wind degrees
 
+![image](https://github.com/Gourmani/Weather-App/assets/105964841/fe5e77ec-431d-4064-8999-ba398d094606)
+
+
 ## Technologies Used
 
 - HTML
@@ -38,7 +41,3 @@ const options = {
     'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
   }
 };
-
-
-![image](https://github.com/Gourmani/Weather-App/assets/105964841/d1ca657c-3804-42e6-a2c3-cd37d7a60ccf)
-
