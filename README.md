@@ -2,9 +2,6 @@
 
 A simple weather application that allows users to check the weather conditions for different cities.
 
-![image](https://github.com/Gourmani/Weather-App/assets/105964841/f87b916c-6bd2-4b52-ac98-e56394feff89)
-
-
 ## Features
 
 - Search for weather conditions by city name
@@ -41,4 +38,7 @@ const options = {
     'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
   }
 };
+
+
+![image](https://github.com/Gourmani/Weather-App/assets/105964841/d1ca657c-3804-42e6-a2c3-cd37d7a60ccf)
 
